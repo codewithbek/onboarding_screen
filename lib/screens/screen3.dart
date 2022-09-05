@@ -82,7 +82,7 @@ class ScreenThree extends StatelessWidget {
                   Lottie.asset(
                     "assets/lottie/third.json",
                     width: double.infinity,
-                    height: 250,
+                    height: 280,
                   ),
                   const Text(
                     "Get your order !!",
